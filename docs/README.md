@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /userguide/gettingstarted
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
 
